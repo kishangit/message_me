@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails - 5.2.4.4
 
-Things you may want to cover:
+Ruby - 2.5.1
 
-* Ruby version
+Real time chat application with Rails actioncable(websocket) and UI is created using Semantic UI. 
 
-* System dependencies
+Demo of this application https://rails-actioncable-chatapp.herokuapp.com/
 
-* Configuration
+Login with one user in browser and login with different user in incognito mode or different browser.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+There are four users
+1) username = "abc", password = "password"
+2) username = "def", password = "password"
+3) username = "ghi", password = "password"
+4) username = "jkl", password = "password"
