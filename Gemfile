@@ -59,7 +59,7 @@ end
 
 group :production do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
-  gem 'pg'
+  gem 'pg', '~> 1.2', '>= 1.2.3'
 end
 
 group :test do
